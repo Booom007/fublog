@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fhg-blog
 
 > A Vue.js project
@@ -25,3 +26,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# fublog
+大海的blog
+>>>>>>> 7d3ee55bf06de872373d25aaa4998365b088a236
